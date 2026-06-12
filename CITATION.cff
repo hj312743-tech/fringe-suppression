@@ -13,7 +13,7 @@ authors:
     given-names: "Zhaolou"
 title: "Physics-driven self-supervised parasitic-fringe suppression for artifact-free lensless holography"
 version: 1.0.0
-date-released: 2025-05-11
+date-released: 2026-06-11
 url: "url: "https://github.com/hj312743-tech/fringe-suppression"
 preferred-citation:
   type: article
@@ -29,4 +29,4 @@ preferred-citation:
     - family-names: "Cao"
       given-names: "Zhaolou"
   title: "Physics-driven self-supervised parasitic-fringe suppression for artifact-free lensless holography"
-  year: 2025
+  year: 2026
