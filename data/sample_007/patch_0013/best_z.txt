@@ -1,0 +1,10 @@
+best_scope=fine
+best_metric=combined
+best_z_m=0.02275
+tenengrad=0.0014565044548362494
+laplacian_var=0.009716718457639217
+gradient_sparsity=0.7197259802948728
+combined=0.7966267466545105
+
+
+#也可以不采用最佳重建距离，进一步增强验证网络去背景条纹和物理轮廓恢复

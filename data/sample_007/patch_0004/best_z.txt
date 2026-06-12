@@ -1,0 +1,7 @@
+best_scope=fine
+best_metric=combined
+best_z_m=0.021
+tenengrad=0.0018497013952583075
+laplacian_var=0.015472925268113613
+gradient_sparsity=0.7398686046955406
+combined=0.8860087394714355
