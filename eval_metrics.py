@@ -253,16 +253,28 @@ METHOD_META = {
         'order': 5,
         'folder_candidates': ['DIP-RED-TV'],
     },
+    'DCOD': {
+        'display': 'DCOD',
+        'category': 'Untrained deep-learning baseline',
+        'order': 6,
+        'folder_candidates': ['DCOD'],
+    },
+    'DH-GAN': {
+        'display': 'DH-GAN',
+        'category': 'Untrained physics-driven GAN baseline',
+        'order': 7,
+        'folder_candidates': ['DH-GAN', 'DH_GAN', 'DHGAN', 'dh-gan', 'dhgan'],
+    },
     'Ours_objectOnly': {
         'display': 'Single-model',
         'category': 'Ablation baseline',
-        'order': 6,
+        'order': 8,
         'folder_candidates': ['Ours_objectOnly', 'Single-model'],
     },
     'Ours': {
         'display': 'Ours',
         'category': 'Physics-driven',
-        'order': 7,
+        'order': 9,
         'folder_candidates': ['Ours'],
     },
 }
@@ -275,6 +287,8 @@ DEFAULT_METHOD_KEYS = [
     'BM3D',
     'U-Net-PC',
     'DIP-RED-TV',
+    'DCOD',
+    'DH-GAN',
     'Ours_objectOnly',
     'Ours',
 ]
